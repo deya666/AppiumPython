@@ -1,0 +1,12 @@
+platformName: Android
+# 真机
+platformVersion: 10
+deviceName: 5c86701f
+noReset: True
+noSign: True
+unicodeKeyBoard: True
+resetKeyboard: True
+appPackage: com.fifedu.tsdx
+appActivity: com.fifedu.tsdx.ui.activity.login.SplashActivity
+ip: 127.0.0.1
+port: 4723
